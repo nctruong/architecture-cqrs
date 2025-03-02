@@ -1,5 +1,8 @@
 Write to mongo
 Read from postgres
+
+Event Storage: Mongodb
+Event broker: redis
 ``` 
 npm run dev:command
 npm run dev:event
