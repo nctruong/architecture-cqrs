@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:write": "nodemon src/writeService.ts",
+    "dev:command": "nodemon src/commandService.ts",
+    "dev:event": "nodemon src/eventListener.ts",
     "dev:read": "nodemon src/readService.ts"
   },
   "keywords": [],
